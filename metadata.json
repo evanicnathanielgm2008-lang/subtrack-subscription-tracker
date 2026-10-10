@@ -1,0 +1,6 @@
+{
+  "name": "SubTrack – Personal Subscription & Renewal Tracker",
+  "description": "Manage recurring subscriptions, track renewal deadlines, analyze monthly and yearly spending, and avoid unwanted charges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
